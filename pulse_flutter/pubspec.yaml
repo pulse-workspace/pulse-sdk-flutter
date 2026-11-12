@@ -1,0 +1,18 @@
+name: pulse_flutter
+description: Official Dart and Flutter Client SDK for Pulse Real-Time Messaging Platform.
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  meta: ^1.9.1
+  msgpack_dart: ^1.0.0
+  web_socket_channel: ^2.4.0
+  http: ^1.1.0
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^3.0.0
+
